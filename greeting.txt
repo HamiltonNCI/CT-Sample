@@ -1,1 +1,1 @@
-Congratulations, you managed to clone a file from a GitHunb repository!
+Congratulations, you managed to clone a file from a GitHub repository!
